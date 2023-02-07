@@ -1,0 +1,68 @@
+@media screen and (max-width: 1991px) {
+  /* start of large tablet styles */
+  //menu
+  .wrapper {
+    padding-left: 13vw;
+  }
+  //navbar
+  .logo {
+    font-size: 8.75vh;
+  }
+}
+
+@media screen and (max-width: 1091px) {
+  /* start of medium tablet styles */
+  //menu
+  .wrapper {
+    padding-left: 19vw;
+  }
+  //navbar
+  .logo {
+    font-size: 7.25vh;
+  }
+}
+
+
+@media screen and (max-width: 767px) {
+  /* start of medium tablet styles */
+  //menu
+  .wrapper {
+    padding-left: 18vw;
+  }
+  //navbar
+  .logo {
+    font-size: 7.25vh;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  /* start of phone styles */
+  //menu
+  .wrapper {
+    padding-left: 25vw;
+  }
+  //navbar
+  .logo {
+    font-size: 5.75vh;
+  }
+  //gallery names
+  .collab {
+  font-size: 3vw !important;
+  }
+}
+
+@media screen and (max-width: 343px) {
+  /* start of smaller phone styles */
+  //menu
+  .wrapper {
+    padding-left: 34vw;
+  }
+  //navbar
+  .logo {
+    font-size: 5.75vh;
+  }
+  //gallery names
+  .collab {
+  font-size: 3vw !important;
+  }
+}

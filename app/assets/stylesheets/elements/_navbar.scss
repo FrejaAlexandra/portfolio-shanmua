@@ -43,13 +43,12 @@ background: linear-gradient(-180deg, #d9d9d9 0%, rgba(255, 255, 255, -0.5) 100%)
   margin-left: 2.9vw;
   color: rgb(255, 255, 255);
   font-weight: bold;
-  font-size: 8.75vh;
   letter-spacing: 2px;
   font-family: 'Fragment Mono', monospace;
   text-decoration: none!important;
-  word-spacing: -30px;
+  // word-spacing: -30px;
 }
 
-.logo:hover {
+.logo:hover { 
   color: rgb(255, 255, 255);
 }
