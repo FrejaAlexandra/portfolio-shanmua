@@ -7,17 +7,17 @@
 .grid-container-small {
   display: flex;
   flex-direction: column;
-  flex-wrap: nowrap;
+  flex-wrap: nowrap !important;
 }
 
 .grid-container-medium {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: nowrap !important;
 }
 
 .grid-container-large {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: nowrap !important;
 }
 
 .grid-img-small {
@@ -105,10 +105,12 @@
     width: 100vw;
     position: absolute;
     margin-top: 101vh;
+    flex-wrap: nowrap !important;
   }
 
   .grid-img-small {
-    width: 32.5vw;
+    width: 32vw;
+    flex-wrap: nowrap !important;
   }
 }
 
@@ -124,8 +126,12 @@
     width: 100vw;
     position: absolute;
     margin-top: 101vh;
+    flex-wrap: nowrap !important;
+
   }
   .grid-img-small {
-    width: 32.5vw;
+    width: 32vw;
+    flex-wrap: nowrap !important;
+
   }
 }
