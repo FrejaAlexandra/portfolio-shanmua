@@ -1,1 +1,5 @@
-Source code of the Web Development bootcamp From Design to Code lecture. The `boilerplate` branch holds the lecture starting boilerplate and the `solution` branch holds the final state.
+Beautiful minimal MUA portfolio where the work speaks for itself.
+
+Designed and created by myself with just CSS, HTML and Javascript. 
+
+Deployed at www.shanxmua.com
