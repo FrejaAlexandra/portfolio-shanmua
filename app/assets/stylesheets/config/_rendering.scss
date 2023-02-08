@@ -9,6 +9,9 @@
     font-size: 8.75vh;
     word-spacing: -36px;
   }
+  .wrapper ul li a{
+    font-size: 9vh;
+  }
 }
 
 @media screen and (max-width: 1091px) {
@@ -21,7 +24,9 @@
   .logo {
     font-size: 7.25vh;
     word-spacing: -20px;
-
+  }
+  .wrapper ul li a{
+    font-size: 9vh;
   }
 }
 
@@ -35,6 +40,9 @@
   //navbar
   .logo {
     font-size: 7.25vh;
+  }
+  .wrapper ul li a{
+    font-size: 9vh;
   }
 }
 
@@ -63,6 +71,9 @@
   left: 0;
   bottom: 6vh;
   }
+  .wrapper ul li a{
+    font-size: 7vh !important;
+  }
 }
 
 @media screen and (max-width: 343px) {
@@ -90,5 +101,8 @@
     position: absolute;
     left: 0;
     bottom: 6vh;
+  }
+  .wrapper ul li a{
+    font-size: 7vh !important;
   }
 }
